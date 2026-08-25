@@ -1,0 +1,5 @@
+outs:
+- md5: 00a5aae78286d54f3a4ff7d61dd5a265
+  size: 95874
+  hash: md5
+  path: current_stress.csv
